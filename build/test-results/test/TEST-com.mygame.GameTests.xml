@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mygame.GameTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-06T13:18:33" hostname="Deepika-ka-MacBook-Pro.local" time="0.057">
+  <properties/>
+  <testcase name="throwsExceptionForInvalidBox()" classname="com.mygame.GameTests" time="0.04"/>
+  <testcase name="canMarkBoxesViaAttempts()" classname="com.mygame.GameTests" time="0.009"/>
+  <testcase name="canCreateNewGame()" classname="com.mygame.GameTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
